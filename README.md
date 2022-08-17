@@ -1,5 +1,6 @@
 # termuxtracker
 minimal Android GPS tracker using termux-location running on termux python3
+
 this project is for study only. If you need a mature solution, check [traccar](https://github.com/traccar/traccar)
 
 # How does it work? 
